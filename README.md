@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vigneshdotdev
 - 👀 I’m interested in building scalable software solutions, distributed systems, and performance optimization.
-- 🌱 I’m currently learning about **System Design, Core Backend concepts like scaling, Docker, and Kubernetes**, and P2P network solutions like broadcast and gossip protocols for large-scale real-time synchronization.
+- 🌱 I’m currently learning about **System Design, Core Backend concepts like scaling, Docker, and Kubernetes**, and Rust language.
 - 💞️ I’m looking to collaborate on interesting backend engineering and distributed systems projects.
 - 📫 How to reach me: vignesh@vigneshhq.dev or connect on [LinkedIn](https://www.linkedin.com/in/vigneshhq).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm working as a software engineer, building robust software, despite not having an engineering degree!
